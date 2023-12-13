@@ -2,9 +2,10 @@ export default {
   "theme": {
     "colors": {
       "primary": {
-        "100": "#e8e7e9",
-        "500": "green",
-        "900": "#181519"
+        "100": "#ebf0ff",
+        "500": "#668ef7",
+        "700": "#3368f3",
+        "900": "#255ef3"
       },
       "error": {
         "100": "#ffd8d8",
@@ -37,19 +38,20 @@ export default {
     "spacing": {
       "zero": "0px",
       "xs": "4px",
-      "s": "8px",
-      "m": "12px",
-      "l": "16px",
-      "xl": "24px",
-      "2xl": "32px",
-      "3xl": "48px"
+      "sm": "8px",
+      "md": "12px",
+      "lg": "16px",
+      "xl": "20px",
+      "2xl": "24px",
+      "3xl": "32px",
+      "4xl": "48px"
     },
     "borderRadius": {
       "zero": "0px",
       "xs": "4px",
-      "s": "8px",
-      "m": "12px",
-      "l": "16px",
+      "sm": "8px",
+      "md": "12px",
+      "lg": "16px",
       "xl": "24px",
       "max": "999px"
     }
